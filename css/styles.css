@@ -236,6 +236,9 @@ article img {
 	margin: 0 auto;
 }
 
+.image-container p {
+	padding-top: 20px;
+	
 .inner-container .image-container {
 	margin: 0;
 }
