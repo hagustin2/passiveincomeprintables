@@ -237,8 +237,9 @@ article img {
 }
 
 .image-container p {
-	padding-top: 20px;
-	
+	padding: 40px 0;
+}
+
 .inner-container .image-container {
 	margin: 0;
 }
@@ -250,7 +251,6 @@ footer {
 }
 
 footer ol {
-	font-size: 20px;
 	text-align: center;
 	list-style-type: none;
 	display: flex;
@@ -261,7 +261,7 @@ footer ol {
 
 footer ol li {
 	font-family: "Montserrat", serif;
-	font-size: 20px;
+	font-size: 24px;
 	font-weight: 600;
   	font-style: normal;
 	text-transform: uppercase;
