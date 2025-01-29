@@ -236,8 +236,25 @@ article img {
 	margin: 0 auto;
 }
 
+.image-container p {
+	padding: 40px 0;
+}
+
 .inner-container .image-container {
 	margin: 0;
+}
+
+.contact-us {
+	
+	padding-bottom: 50px;
+}
+
+.email {
+	display: flex;
+}
+
+.email div {
+	padding-top: 100px;
 }
 
 footer {
@@ -247,7 +264,6 @@ footer {
 }
 
 footer ol {
-	font-size: 20px;
 	text-align: center;
 	list-style-type: none;
 	display: flex;
@@ -258,7 +274,7 @@ footer ol {
 
 footer ol li {
 	font-family: "Montserrat", serif;
-	font-size: 28px;
+	font-size: 24px;
 	font-weight: 600;
   	font-style: normal;
 	text-transform: uppercase;
