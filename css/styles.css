@@ -52,7 +52,7 @@ body {
 
 .w3-sidebar {
 	height:100%;
-	width:350px;
+	width:450px;
 	background-color:#f3c6cf;
 	position:fixed!important;
 	z-index:1;
@@ -160,7 +160,7 @@ p {
 
 nav {
 	font-family: "Montserrat", serif;
-	font-weight: 400;
+	font-weight: 600;
 	font-size: 14px;
   	font-style: normal;
 	  text-transform: uppercase;
