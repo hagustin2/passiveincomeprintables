@@ -351,10 +351,10 @@ footer a:hover, a:active {
  h2 {
 	font-size: 48px;
 }
-
+/* 
 h3 {
 	font-size: 36px;
-}
+} */
 
 .outer-container {
 	display: flex;
