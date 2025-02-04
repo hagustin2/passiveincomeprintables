@@ -3,7 +3,7 @@ body {
 	background-color: #f7e8e8;
 	font-family: "Montserrat", serif;
 	color: #666;
-	font-size: 24px;
+	font-size: 16px;
 	line-height: 1.5;
 	}
 
@@ -252,9 +252,6 @@ article img {
 	font-size: 16px;
 }
 
-.image-container li {
-	font-size: 16px;
-}
 
 footer {
 	padding: 40px 0;
