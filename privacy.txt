@@ -26,7 +26,7 @@ Privacy Policy of passiveincomeprintables.netlify.app/
 
     
       Among the types of Personal Data that this Application collects, by itself or through third parties, there are:
-      Trackers; Usage Data; number of Users; session statistics.
+      Trackers; Usage Data; number of Users; session statistics; email address.
     
 
   Complete details on each type of Personal Data collected are provided in the dedicated sections of this privacy policy or by specific explanation texts displayed prior to the Data collection.Personal Data may be freely provided by the User, or, in case of Usage Data, collected automatically when using this Application.Unless specified otherwise, all Data requested by this Application is mandatory and failure to provide this Data may make it impossible for this Application to provide its services. In cases where this Application specifically states that some Data is not mandatory, Users are free not to communicate this Data without consequences to the availability or the functioning of the Service.Users who are uncertain about which Personal Data is mandatory are welcome to contact the Owner.Any use of Cookies – or of other tracking tools — by this Application or by the owners of third-party services used by this Application serves the purpose of providing the Service required by the User, in addition to any other purposes described in the present document and in the Cookie Policy.
@@ -59,7 +59,7 @@ Depending on the User's location, data transfers may involve transferring the Us
     The purposes of processing
       
         The Data concerning the User is collected to allow the Owner to provide its Service, comply with its legal obligations, respond to enforcement requests, protect its rights and interests (or those of its Users or third parties), detect any malicious or fraudulent activity, as well as the following:
-        Analytics and Displaying content from external platforms.
+        Analytics, Displaying content from external platforms and Contacting the User.
       
      
     For specific information about the Personal Data used for each purpose, the User may refer to the section “Detailed information on the processing of Personal Data”.
@@ -104,6 +104,36 @@ In order to understand Google's use of Data, consult their partner policy and th
 
                   
                   Place of processing:  United States –  Privacy Policy – Opt Out. 
+                  
+                  
+
+                  
+                  
+              
+            
+          
+
+          
+            
+              
+                
+                  Contacting the User
+                
+              
+              
+                
+
+
+                  
+                  Mailing list or newsletter ()
+                  
+                    By registering on the mailing list or for the newsletter, the User’s email address will be added to the contact list of those who may receive email messages containing information of commercial or promotional nature concerning this Application. Your email address might also be added to this list as a result of signing up to this Application or after making a purchase.
+                  
+
+                    Personal Data processed: email address; Trackers; Usage Data.
+
+                  
+                  
                   
                   
 
@@ -326,7 +356,7 @@ Should the changes affect processing activities performed on the basis of the Us
 
 
   
-    Latest update: February 03, 2025
+    Latest update: February 08, 2025
   
   
     
