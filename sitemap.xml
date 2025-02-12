@@ -1,42 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
 <url>
-  <loc>https://passiveincomeprintables.netlify.app/</loc>
-  <lastmod>2025-02-10T20:44:43+00:00</lastmod>
-  <priority>1.00</priority>
+  <loc>http://passiveincomeprintables.netlify.app/</loc>
 </url>
 <url>
-  <loc>https://passiveincomeprintables.netlify.app/about-us</loc>
-  <lastmod>2025-02-10T20:44:43+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://passiveincomeprintables.netlify.app/about-us</loc>
 </url>
 <url>
-  <loc>https://passiveincomeprintables.netlify.app/create-and-sell-passive-income-printables</loc>
-  <lastmod>2025-02-10T20:44:43+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://passiveincomeprintables.netlify.app/create-and-sell-passive-income-printables</loc>
 </url>
 <url>
-  <loc>https://passiveincomeprintables.netlify.app/contact-us</loc>
-  <lastmod>2025-02-10T20:44:43+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://passiveincomeprintables.netlify.app/contact-us</loc>
 </url>
 <url>
-  <loc>https://passiveincomeprintables.netlify.app/privacy</loc>
-  <lastmod>2025-02-10T20:44:43+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://passiveincomeprintables.netlify.app/privacy</loc>
 </url>
 <url>
-  <loc>https://passiveincomeprintables.netlify.app/privacy.txt</loc>
-  <lastmod>2025-02-10T20:44:43+00:00</lastmod>
-  <priority>0.80</priority>
+  <loc>http://passiveincomeprintables.netlify.app/privacy.txt</loc>
 </url>
-
-
 </urlset>
