@@ -375,6 +375,49 @@ h3 {
 	}
 
 }
+
+/* Container for social links */
+.social-links {
+	display: flex;
+	gap: 15px; /* Adjust spacing between icons */
+	margin-top: 20px;
+  }
+  
+  /* Styling the social icons */
+  .social-icon {
+	text-decoration: none;
+	font-size: 30px; /* Icon size */
+	color: white;
+	background-color: #333; /* Background color */
+	padding: 10px;
+	border-radius: 50%; /* Circular background */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	transition: background-color 0.3s ease;
+  }
+  
+  /* Hover effect */
+  .social-icon:hover {
+	background-color: #555;
+  }
+  
+  /* Custom colors for each social media */
+  .social-icon i.bi-instagram {
+	background-color: #E1306C;
+  }
+  
+  .social-icon i.bi-facebook {
+	background-color: #3b5998;
+  }
+  
+  .social-icon i.bi-reddit {
+	background-color: #FF4500;
+  }
+  
+  .social-icon i.bi-pinterest {
+	background-color: #E60023;
+  }
 /* 
 @media only screen and  (min-width:1340px) {
  
