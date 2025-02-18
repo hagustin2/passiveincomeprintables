@@ -375,12 +375,18 @@ h3 {
 	}
 
 }
-/* Ensure the icons are a reasonable size */
-.social-icon i {
-	font-size: 30px; /* Adjust the size of the icons */
-	color: #333; /* Icon color */
-	margin-right: 10px; /* Space between icons */
+.social-links {
+	display: flex;                
+	justify-content: center;   
+	align-items: center;         
+	margin-top: 20px;          
   }
+
+.social-icon i {
+	font-size: 30px; 
+	color: #333; 
+	margin-right: 10px;
+  } 
 
 /* 
 @media only screen and  (min-width:1340px) {
