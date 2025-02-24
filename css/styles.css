@@ -390,6 +390,7 @@ h3 {
 
 .privacy,
 .cookies {
+	align-items: center;
 	font-size: 30px;
 }
 
