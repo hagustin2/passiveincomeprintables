@@ -269,7 +269,7 @@ footer ol {
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
-	padding: 0;
+	padding: 12;
 }
 
 footer ol li {
