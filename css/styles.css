@@ -400,10 +400,136 @@ h3 {
 	align-content: center;
 }
 
-/* 
+
 @media only screen and  (min-width:1340px) {
  
  .hamburger-position {
 		margin-left: 10%;
 	}
-} */
+}
+
+@media only screen and (max-width: 768px) {
+
+	/* --- General Styles --- */
+	body {
+	  font-size: 14px; /* Smaller font size for mobile */
+	}
+  
+	.w3-bar-block {
+	  display: flex;
+	  flex-direction: column; /* Stack the items vertically on mobile */
+	  justify-content: flex-start;
+	  padding-top: 60px; /* Adjust padding for smaller screens */
+	  width: 100%; /* Full width */
+	  display: block; /* Ensure the sidebar is visible on mobile */
+	}
+  
+	.w3-bar-item {
+	  font-size: 16px; /* Smaller font for mobile */
+	  padding: 10px;
+	}
+  
+	/* --- Sidebar adjustments --- */
+	.w3-sidebar {
+	  width: 100%; /* Full width on mobile */
+	  height: 100%;
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  background-color: #f3c6cf;
+	  transform: translateX(-100%); /* Hide sidebar by default */
+	  transition: transform 0.3s ease-in-out;
+	}
+  
+	.w3-sidebar.show {
+	  transform: translateX(0); /* Show the sidebar when it's toggled */
+	}
+  
+	/* --- Hamburger Icon Adjustment --- */
+	.hamburger-position {
+	  position: fixed;
+	  top: 20px;
+	  left: 20px;
+	  z-index: 10;
+	  display: block; /* Ensure the hamburger icon is shown */
+	}
+  
+	/* --- Navigation bar styles for mobile --- */
+	nav {
+	  width: 100%; /* Full width for mobile */
+	  text-align: center;
+	  background-color: #fff;
+	  padding: 10px 0;
+	}
+  
+	header h1 {
+	  font-size: 6vw; /* Adjust font size for mobile */
+	  text-align: center;
+	}
+  
+	header h2 {
+	  font-size: 5vw;
+	  text-align: center;
+	}
+  
+	.content {
+	  width: 90%; /* Make content take up most of the width */
+	}
+  
+	/* --- Footer adjustments --- */
+	footer ol {
+	  flex-direction: column; /* Stack footer items vertically on mobile */
+	  text-align: center;
+	}
+  
+	footer ol li {
+	  font-size: 14px; /* Smaller font for footer items */
+	  margin: 5px 0;
+	}
+  
+	/* --- Cookie Popup for Mobile --- */
+	#cookiePopup {
+	  width: 90%;
+	  font-size: 14px;
+	  padding: 1em 1.2em;
+	}
+  
+	/* --- Main Content Layout --- */
+	.outer-container {
+	  flex-direction: column; /* Stack the inner containers vertically on small screens */
+	  margin: 0;
+	}
+  
+	.inner-container {
+	  width: 100%; /* Full width of screen */
+	  padding: 10px;
+	}
+  
+	.social-links {
+	  flex-direction: column; /* Stack social icons vertically on mobile */
+	  justify-content: center;
+	  align-items: center;
+	  margin-top: 20px;
+	}
+  
+	.social-icon i {
+	  font-size: 24px; /* Adjust icon size for mobile */
+	  margin-right: 0;
+	  margin-bottom: 10px;
+	}
+  
+	/* --- Content Section --- */
+	.image-container {
+	  width: 100%; /* Make the image container full width */
+	  margin: 20px 0;
+	}
+  
+	.email div {
+	  padding-top: 50px; /* Adjust email div padding for mobile */
+	}
+  
+	.w3-button {
+	  font-size: 14px; /* Smaller button font size for mobile */
+	  padding: 8px 12px;
+	}
+  }
