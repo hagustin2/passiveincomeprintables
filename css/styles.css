@@ -200,7 +200,8 @@ header {
 }
 
 .header-content {
-	height: 46.296vh; /* Roughly 500px of 1080px high screen */
+	height: auto;
+	/* 46.296vh; Roughly 500px of 1080px high screen */
  	position: relative;
   	display: flex;
   	flex-direction: column;
