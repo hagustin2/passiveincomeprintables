@@ -294,6 +294,27 @@ footer a:hover, a:active {
 	text-decoration: underline;
 }
 
+.social-links {
+	display: flex;                
+	justify-content: center;   
+	align-items: center;         
+	margin-top: 20px;          
+  }
+
+.social-icon i {
+	font-size: 30px; 
+	color: #333; 
+	margin-right: 10px;
+  } 
+
+.privacy a,
+.cookies a {
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	align-content: center;
+}
+
 /* -- Code for the Cookie Compliance popover window -- */
 
 #cookiePopup {
@@ -379,26 +400,6 @@ h3 {
 	z-index: 10; 
 	}
 
-}
-.social-links {
-	display: flex;                
-	justify-content: center;   
-	align-items: center;         
-	margin-top: 20px;          
-  }
-
-.social-icon i {
-	font-size: 30px; 
-	color: #333; 
-	margin-right: 10px;
-  } 
-
-.privacy a,
-.cookies a {
-	justify-content: center;
-	justify-items: center;
-	align-items: center;
-	align-content: center;
 }
 
 
