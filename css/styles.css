@@ -307,19 +307,8 @@ footer a:hover, a:active {
 	margin-right: 10px;
   } 
 
-.privacy a,
-.cookies a {
-	justify-content: center;
-	justify-items: center;
-	align-items: center;
-	align-content: center;
-}
-
 .privacy-and-cookies {
-	justify-content: center;
-	justify-items: center;
-	align-items: center;
-	align-content: center;
+	padding-top: 10px;
 	text-align: center;
 }
 /* -- Code for the Cookie Compliance popover window -- */
