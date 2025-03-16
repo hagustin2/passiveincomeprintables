@@ -315,6 +315,12 @@ footer a:hover, a:active {
 	align-content: center;
 }
 
+.privacy-and-cookies {
+	justify-content: center;
+	justify-items: center;
+	align-items: center;
+	align-content: center;
+}
 /* -- Code for the Cookie Compliance popover window -- */
 
 #cookiePopup {
