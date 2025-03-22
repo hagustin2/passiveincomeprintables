@@ -316,6 +316,7 @@ footer a:hover, a:active {
 .leaderboard-banner {
 	text-align: center;
 	margin: 20px 0;
+	justify-content: center;
   }
   
   /* For the square banner */
