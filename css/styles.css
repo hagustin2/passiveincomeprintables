@@ -311,6 +311,19 @@ footer a:hover, a:active {
 	padding-top: 10px;
 	text-align: center;
 }
+
+/* For the leaderboard banner */
+.leaderboard-banner {
+	text-align: center;
+	margin: 20px 0;
+  }
+  
+  /* For the square banner */
+  .square-banner {
+	display: block;
+	margin: 20px auto;
+	text-align: center;
+  }
 /* -- Code for the Cookie Compliance popover window -- */
 
 #cookiePopup {
