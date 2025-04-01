@@ -240,6 +240,10 @@ article img {
 	margin: 50px auto;
 }
 
+img {
+	text-align: center;
+}
+
 .inner-container .image-container {
 	margin: 0;
 }
