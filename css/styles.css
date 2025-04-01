@@ -236,7 +236,7 @@ article img {
 }
 
 .image-container {
-	/* width: 70%; */
+	text-align: center;
 	margin: 50px auto;
 }
 
